@@ -3,7 +3,7 @@
 //let paragrafo = document.querySelector ('p');
 //paragrafo.innerHTML = 'escolha um número entre 1 e 10';
 let listaNumeros =[];
-let numeroMax = 1000;
+let numeroMax = 10000;
 let tentativas = 1;
 function addTexto(tag, texto){
     let campo = document.querySelector (tag);
